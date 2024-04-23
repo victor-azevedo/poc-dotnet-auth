@@ -1,0 +1,6 @@
+@PocAuth_HostAddress = http://localhost:5033
+
+GET {{PocAuth_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
